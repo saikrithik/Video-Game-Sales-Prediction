@@ -19,7 +19,7 @@ The gaming industry is certainly one of the thriving industries of the modern ag
 #### Tools used
 1. Python for programming
 2. sklearn and numpy libraries for methodology
-3. xgboost library for the model
+3. catboost and lightgbm library for the model
 4. matplotlib and seaborn was used for plotting and analyzing the data
 #### Competition Result
 Rank: 11th on public LB and __ on private LB\
